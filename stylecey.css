@@ -1,0 +1,21 @@
+.tagline{
+    background: linear-gradient(to right, #1900ff, #ff00f2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.tagline1{
+    background: linear-gradient(to right, #ff00ea, #fbff00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.tagline2{
+    color:aliceblue;
+    font-style: normal;
+    text-align:center;
+}
